@@ -3,4 +3,3 @@ https://eyak09.github.io/cen1DD24/
 
 
 requête wikidata html :
-https://eyak09.github.io/cen1DD24/test.html
