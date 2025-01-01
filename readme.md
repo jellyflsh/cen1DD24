@@ -7,4 +7,3 @@ S02. requête wikidata html :        https://eyak09.github.io/cen1DD24/test.html
 
 S03. exercice albums produits en France : 
 
-test infographie couleurs : 
